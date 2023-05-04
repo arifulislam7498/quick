@@ -1,2 +1,2 @@
 # quick
-https://github.com/arifulislam7498/quick
+https://arifulislam7498.github.io/quick/
